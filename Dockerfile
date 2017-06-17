@@ -8,9 +8,9 @@ ENV GPU_MAX_ALLOC_PERCENT=100
 ENV GPU_SINGLE_ALLOC_PERCENT=100
 
 # Ethereum pool address
-ENV EPOOL=eth-eu1.nanopool.org:9999
+ENV EPOOL=us-west1.nanopool.org:9999
 # Ethereum wallet address
-ENV EWAL=0x54299f872c36f7bc306be3425abc41a5ab082752
+ENV EWAL=0x348AA2e4F7E730E37781AB8584DDbbA3977930d8
 # Ethereum pool password
 ENV EPSW=x
 # Ethereum mining intensity
@@ -21,9 +21,9 @@ ENV ESM=0
 # Secondary coin to mine
 ENV DCOIN=sia
 # Secondary coin pool address
-ENV DPOOL=sia-eu1.nanopool.org:7777
+ENV DPOOL=sia-us-west1.nanopool.org:7777
 # Secondary coin wallet address
-ENV DWAL=d2ce0ab59206119c0ba30b1592c8c43a6c3f949cd1eafc41cba7791d5f74d801a4e5bac8f463/docker1/george@noodles.gr
+ENV DWAL=8479c3129ec4f674e22d47b275c0b641f8fe8de1f379a5ac43c80daf44dd94f45812ea8d6fb6/docker1/emaildavid@yahoo.com
 # Secondary coin pool password
 ENV DPSW=x
 # Secondary coin mining intensity
