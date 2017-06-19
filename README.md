@@ -22,9 +22,9 @@ Claymore supports quite a few more that are not being used here.
 
 ```
 docker run \
-  -e "EMAIL=george@noodles.gr" \
-  -e "WORKER=docker1" \
-  -e "EWAL=0x54299f872c36f7bc306be3425abc41a5ab082752" \
-  -e "DWAL=d2ce0ab59206119c0ba30b1592c8c43a6c3f949cd1eafc41cba7791d5f74d801a4e5bac8f463" \
-  geoah/docker-claymore
+  -e "EMAIL=emaildavid@yahoo.com" \
+  -e "WORKER=docker0" \
+  -e "EWAL=0x348AA2e4F7E730E37781AB8584DDbbA3977930d8" \
+  -e "DWAL=8479c3129ec4f674e22d47b275c0b641f8fe8de1f379a5ac43c80daf44dd94f45812ea8d6fb6" \
+  david510c/docker-claymore
 ```
